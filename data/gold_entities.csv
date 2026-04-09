@@ -1,0 +1,70 @@
+text_id,entity_text,entity_label,start_char,end_char
+1,IPCC,ORG,4,8
+1,Sixth Assessment Report,WORK_OF_ART,22,45
+1,March 2023,DATE,49,59
+1,1.5 degrees Celsius,QUANTITY,95,114
+1,2030,DATE,153,157
+1,Antonio Guterres,PERSON,220,236
+1,COP,ORG,389,392
+2,COP28,ORG,3,8
+2,Dubai,GPE,12,17
+2,190 nations,QUANTITY,24,35
+2,United Arab Emirates,GPE,56,75
+2,2030,DATE,230,234
+3,World Bank,ORG,4,14
+3,$12.5 billion,MONEY,27,40
+3,June 2024,DATE,73,82
+3,Sub-Saharan Africa,LOC,117,135
+3,South Asia,LOC,140,150
+3,Ajay Banga,PERSON,273,283
+4,Jordan,GPE,0,6
+4,2022,DATE,56,60
+4,31%,QUANTITY,112,115
+4,2030,DATE,119,123
+4,Ministry of Environment,ORG,197,219
+4,UNDP,ORG,260,264
+4,European Union,ORG,273,287
+5,UNFCCC,ORG,0,6
+5,Simon Stiell,PERSON,27,39
+5,Bonn Climate Change Conference,EVENT,63,93
+5,June 2024,DATE,97,106
+5,Paris Agreement,LAW,164,180
+5,February 2025,DATE,237,250
+6,European Union,ORG,4,18
+6,Carbon Border Adjustment Mechanism,LAW,21,55
+6,October 2023,DATE,85,97
+6,EU,ORG,279,281
+6,January 2026,DATE,395,407
+7,September 2023,DATE,3,17
+7,United Nations General Assembly,ORG,23,53
+7,Climate Ambition Summit,EVENT,65,88
+7,New York,GPE,92,100
+7,Paris Agreement,LAW,301,315
+8,FAO,ORG,0,3
+8,2023,DATE,48,52
+8,735 million people,QUANTITY,109,127
+8,2022,DATE,153,157
+8,FAO,ORG,230,233
+8,Qu Dongyu,PERSON,251,260
+8,$4 billion,MONEY,275,285
+9,Green Climate Fund,ORG,4,22
+9,$1.2 billion,MONEY,32,44
+9,October 2023,DATE,79,91
+9,Songdo,GPE,110,116
+9,South Korea,GPE,118,129
+9,$150 million,MONEY,163,175
+9,Bangladesh,GPE,207,217
+9,$90 million,MONEY,221,232
+9,Congo Basin,LOC,267,278
+9,$45 million,MONEY,286,297
+9,Jordan,GPE,322,328
+9,$12 billion,MONEY,361,372
+10,China,GPE,0,5
+10,Xie Zhenhua,PERSON,42,53
+10,US,GPE,63,65
+10,John Kerry,PERSON,82,92
+10,Sunnylands,LOC,96,106
+10,California,GPE,108,118
+10,November 2023,DATE,122,135
+10,Paris Agreement,LAW,210,224
+10,COP28,ORG,353,358
